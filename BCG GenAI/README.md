@@ -6,6 +6,11 @@ Project:
 Team:
 <p>The project team consisted of NLP, Machine Learning, Data Integration, UX Designer, and Data Scientist resources.</p>
 <br>
+
+Role:
+<p>Data Scientist focused on applying AI and data analysis skills to develop AI-powered tools, such as a financial chatbot, while learning to translate complex data into strategic business insights.</p>
+<br>
+
 Tools:  SEC EDGAR database, www.investopedia.com, Excel, Python, Pandas
 <br>
 <br>
