@@ -2,6 +2,10 @@
 
 ## Project
 Advise one of Cognizant’s clients on a supply chain issue by applying knowledge of machine learning models
+<p float="left">
+<img src="https://github.com/Sarah269/bug-free-eureka/blob/main/CognizantAI/GalaGroceries_nextsteps.png" width = "49%"/>
+<img src="https://github.com/Sarah269/bug-free-eureka/blob/main/CognizantAI/GalaGroceries_results.png" width="49%"/>
+</p>
 
 ## Tools
 * Python, Pandas, Sci-kit Learn, PowerPoint
