@@ -11,17 +11,17 @@ Advise one of Cognizant’s clients on a supply chain issue by applying knowledg
 * Python, Pandas, Sci-kit Learn, PowerPoint
 
 ## Tasks Performed
-* Exploratory Data Analysis
-* Review Data Model
-* Create powerpoint slide with showing which data will be used and the next steps
-* Load, aggregate, and merger datasets
-* Separate merged dataset into Features and target
-* Spilt datasets into Train and Test
-* Build Model
-* Train Model
-* Make Predications
-* Determine Mean Absolute Error
-* Create a powerpoint slide showing results from model
+* Exploratory data analysis
+* Review data model
+* Create a powerpoint slide:  which data will be used and the next steps
+* Load, aggregate, and merge datasets
+* Separate merged dataset into features and target
+* Spilt datasets into train and test
+* Build a regression model
+* Train model
+* Make predictions
+* Calculate Mean Absolute Error
+* Create a powerpoint slide: results from model
 * Build a python script to turn over the model to the Machine Learning team
 
 ## Limitations
