@@ -1,8 +1,12 @@
 # Siemens Mobility Project Manager Job Simulation on Forage
 
 ## Project
-Urban rail expansion initiative aimed at enhancing the city's public transportation network to meet growing demands and sustainability goals.
+Urban rail expansion initiative aimed at enhancing Metroville's public transportation network to meet growing demands and sustainability goals.
 
+<p float="left">
+<img src="https://github.com/Sarah269/bug-free-eureka/blob/main/Siemens/Siemens%20KPIs.png" width = "49%"/>
+<img src="https://github.com/Sarah269/bug-free-eureka/blob/main/Siemens/Siemens%20Metroville%20Dashboard.png" width="49%"/>
+</p>
 
 ## Role
 Project Manager
