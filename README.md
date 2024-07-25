@@ -20,3 +20,18 @@ Advise a hypothetical client, ABC Staffing, on how to automate their timesheet-t
 Project:
 Urban rail expansion initiative aimed at enhancing the city's public transportation network to meet growing demands and sustainability goals.
 
+## [J.P. Morgan Chase & Co Agile Job Simulation on Forge](https://github.com/Sarah269/bug-free-eureka/tree/main/JPMC%20Agile)
+
+Project: 
+
+
+## [CBRE Project Management Job Simulation on Forage]()
+
+Project:
+
+
+## [Mastercard Cybersecurity Job Simulation on Forage]()
+
+Project:
+
+
