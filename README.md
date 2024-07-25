@@ -23,15 +23,16 @@ Urban rail expansion initiative aimed at enhancing the city's public transportat
 ## [J.P. Morgan Chase & Co Agile Job Simulation on Forge](https://github.com/Sarah269/bug-free-eureka/tree/main/JPMC%20Agile)
 
 Project: 
-
+Completed a job simulation focused on agile methodology in software development. Drafted eight user stories using Trello and prioritized them by estimating the relative level of effort required.
 
 ## [CBRE Project Management Job Simulation on Forage]()
 
 Project:
-
+Completed a job simulation focused on project planning for a global manufacturer's showroom development.
 
 ## [Mastercard Cybersecurity Job Simulation on Forage]()
 
 Project:
 
+Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team. Analyzed results from phishing email campaign and developed training materials
 
