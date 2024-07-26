@@ -3,6 +3,9 @@
 Project: 
 <p>Create an AI-powered chatbot that can analyze and provide insights on corporate financial performance from 10-K and 10-Q financial documents.</p>
 
+<img src="https://github.com/Sarah269/bug-free-eureka/blob/main/BCG%20GenAI/GenAI_Chatbot.png" height=400 />
+
+
 Team:
 <p>The project team consisted of NLP, Machine Learning, Data Integration, UX Designer, and Data Scientist resources.</p>
 <br>
