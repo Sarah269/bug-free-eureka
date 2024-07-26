@@ -3,7 +3,7 @@
 ## Project
 Agile software development with JP Morgan Chase & Co
 
-![Product backlog](https://github.com/Sarah269/bug-free-eureka/blob/main/JPMC%20Agile/JPMC%20Product%20Backlog.png)
+<img src = "https://github.com/Sarah269/bug-free-eureka/blob/main/JPMC%20Agile/JPMC%20Product%20Backlog.png" height=400 />
 
 ## Role
 Product Owner, Scrum Master, Developer
