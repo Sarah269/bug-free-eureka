@@ -1,4 +1,4 @@
-# Virtual Work Experience
+# Job Simulations from Top Companies
 
 ## [BCG GenAI Job Simulation on Forage](https://github.com/Sarah269/bug-free-eureka/tree/main/BCG%20GenAI)
 
