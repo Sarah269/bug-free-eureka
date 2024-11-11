@@ -8,7 +8,7 @@ Create an AI-powered chatbot that can analyze and provide insights on corporate 
 ## [Cognizant Artifical Intelligence Job Simulation on Forage](https://github.com/Sarah269/bug-free-eureka/tree/main/CognizantAI)
 
 Project:
-Advise one of Cognizant’s clients on a supply chain issue by applying knowledge of machine learning models.
+Advise one of Cognizant’s clients on a supply chain issue by applying knowledge of machine learning models.  Created PowerPoint slides to communicate results.
 
 ## [Datacom Automation Job Simulation on Forage](https://github.com/Sarah269/bug-free-eureka/tree/main/DatacomAutomation)
 
@@ -33,5 +33,5 @@ Completed a job simulation focused on project planning for a global manufacturer
 ## [Mastercard Cybersecurity Job Simulation on Forage](https://github.com/Sarah269/bug-free-eureka/tree/main/Mastercard%20Cybersecurity)
 
 Project:
-Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team. Analyzed results from phishing email campaign and developed training materials
+Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team. Analyzed results from phishing email campaign and developed training materials.  Created PowerPoint deck for training.
 
