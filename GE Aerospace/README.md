@@ -10,24 +10,24 @@ Digital Technology Intern at GE Aerospace
 - Google Docs
 
 ## Role 1: Software Developer
+<p>Become familiar with one of the tools GE Aerospace uses for application development.  GE leverages Vue.js for building user interfaces.</p>
+
 <p>Design a user interface using Vue.js. Add text, an image, a button, and compute the product of two numbers when the button is clicked.</p>
 
-
-
-
-
-
-
-
+<p float=left>
+<img src="https://github.com/Sarah269/bug-free-eureka/blob/main/GE%20Aerospace/Vue_1.png" width="49%">
+<img src="https://github.com/Sarah269/bug-free-eureka/blob/main/GE%20Aerospace/Vue_2.png" width="49%">
+</p>
 
 # Role 2: Product Owner
 <p>Convert business requirements into technical requirements for the technical team.</p>
 
-<p>The new feature will be designed to suggest the optimal time to order various new plane parts.  GE management would like the system to provide order times that are early enough to avoid shortages but late enough to keep costs low.</p>
+<p>Write technical requirements for a new supply chain feature that suggests the optimal time to order new plane parts. 
+GE management would like the system to provide order times that are early enough to avoid shortages but late enough to keep costs low.</p>
 
 ### User Stories (partial listing)
 
-
+<img src="https://github.com/Sarah269/bug-free-eureka/blob/main/GE%20Aerospace/GE%20Aerospace%20User%20Stories.png" height="300">
 
 ### Technical Requirements
 Technical Requirements
