@@ -6,7 +6,8 @@ Digital Technology Intern at GE Aerospace
 
 ## Tools
 - Vue.js
-- VScode Studio
+- Vue SFC Playground
+- Visual Studio Code
 - Google Docs
 
 ## Role 1: Software Developer
@@ -22,8 +23,7 @@ Digital Technology Intern at GE Aerospace
 # Role 2: Product Owner
 <p>Convert business requirements into technical requirements for the technical team.</p>
 
-<p>Write technical requirements for a new supply chain feature that suggests the optimal time to order new plane parts. 
-GE management would like the system to provide order times that are early enough to avoid shortages but late enough to keep costs low.</p>
+<p>Write technical requirements for a new supply chain feature that suggests the optimal time to order new plane parts. GE management would like the system to provide order times that are early enough to avoid shortages but late enough to keep costs low.</p>
 
 ### User Stories (partial listing)
 
