@@ -25,10 +25,6 @@ Digital Technology Intern at GE Aerospace
 
 <p>Write technical requirements for a new supply chain feature that suggests the optimal time to order new plane parts. GE management would like the system to provide order times that are early enough to avoid shortages but late enough to keep costs low.</p>
 
-### User Stories (partial listing)
-
-<img src="https://github.com/Sarah269/bug-free-eureka/blob/main/GE%20Aerospace/GE%20Aerospace%20User%20Stories.png" height="300">
-
 ### Technical Requirements
 Technical Requirements
 1.  Dynamic Order Calculation Algorithm:
