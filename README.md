@@ -32,7 +32,7 @@ Completed a job simulation focused on agile methodology in software development.
 Project:
 Completed a job simulation focused on project planning for a global manufacturer's showroom development.
 
-## Thermo Fisher Scientific Genetic Sciences Job Simulation on Forage
+## [Thermo Fisher Scientific Genetic Sciences Job Simulation on Forage](https://github.com/Sarah269/bug-free-eureka/tree/main/Thermo%20Fisher)
 Project:
 Completed a job simulation involving analysis of Real-time PCR tests and amplification curves.
 
