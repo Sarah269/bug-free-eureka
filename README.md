@@ -37,6 +37,9 @@ Project:
 Completed a job simulation involving analysis of Real-time PCR tests and amplification curves.
 
 
+## [GE Aerospace Digital Technolgy Job Simulation on Forage](https://github.com/Sarah269/bug-free-eureka/tree/main/GE%20Aerospace)
+Project:
+Digital Technology Intern at GE Aerospace. Explores two roles: Software Developer and Product Owner
 
 ## [Mastercard Cybersecurity Job Simulation on Forage](https://github.com/Sarah269/bug-free-eureka/tree/main/Mastercard%20Cybersecurity)
 
